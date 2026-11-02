@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NotesWall.Tests/NotesWall.Tests.csproj" />
+  <Project Path="NotesWall/NotesWall.csproj" />
+</Solution>
